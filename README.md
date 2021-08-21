@@ -20,6 +20,8 @@
 - - Java8, Java Swing, banco de dados PostgreSQL, JasperReport e JCalendar.
 - <a href="https://github.com/AL33H/Netflix-clone-DIO">Projeto Netflix-clone-DIO.</a>
 - - HTML5, CSS3 e Javascript.
+- <a href="https://github.com/AL33H/course-manager-DIO">course-manager-DIO.</a>
+- - *FrontEnd*: Angular 8 Html5,CSS3, Javascript || *Back-End* - NodesJs
 
 
 ## Onde me encontrar
