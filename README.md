@@ -15,13 +15,13 @@
 
 ## Projetos
 -  <a href="https://github.com/AL33H/personAPI-DIO-bootcamp">Projeto person-DIO-bootcamp.</a>
-- - **Back-End:** Java 11, SpringBoot, Maven e API REST || **Banco de Dados:** H2 e PostgreSQL
+- - **Back-End:** Java 11, SpringBoot, Maven e API REST      || **Banco de Dados:** H2 e PostgreSQL
 - <a href="https://github.com/AL33H/BarberSystemJava">Projeto BarberSystemJava. </a>
-- - **FrontEnd:** Java Swing || **Back-End:** Java 8, JasperReport e JCalendar || **Banco de Dados:** PostgreSQL.
+- - **FrontEnd:** Java Swing      || **Back-End:** Java 8, JasperReport e JCalendar     || **Banco de Dados:** PostgreSQL.
 - <a href="https://github.com/AL33H/Netflix-clone-DIO">Projeto Netflix-clone-DIO.</a>
 - - **FrontEnd:** HTML5, CSS3 e Javascript.
 - <a href="https://github.com/AL33H/course-manager-DIO">course-manager-DIO.</a>
-- - **FrontEnd:** Angular 8, Html5 , CSS3, Javascript || **Back-End:** - NodesJs
+- - **FrontEnd:** Angular 8, Html5 , CSS3, Javascript, TypeScript     || **Back-End:** - NodesJs
 
 
 ## Onde me encontrar
