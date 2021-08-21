@@ -26,7 +26,7 @@
 - - **FrontEnd:** HTML5, CSS3 e Javascript.
 - <a href="https://github.com/AL33H/course-manager-DIO">course-manager-DIO.</a>
 - - **FrontEnd:** Angular 8, Html5 , CSS3, Javascript, TypeScript. 
-- - **Back-End:**  NodesJs.
+- - **Back-End:**  NodeJs.
 
 
 ## Onde me encontrar
