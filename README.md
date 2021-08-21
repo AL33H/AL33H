@@ -4,6 +4,7 @@
 
  **Nome:**  Aleff Remberto Freire dos Santos <br/>
  **Idade:**  27 anos
+ **Sobre:** Atualmente estou em busca de uma oportunidade para iniciar minha carreira de programação.
 
 ## **Formação**
 - Ensino Médio Técnico Completo (Conclusão em 2011).
