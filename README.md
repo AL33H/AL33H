@@ -43,16 +43,18 @@
 
 ### Banco de Dados:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?style=plastic&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql)
 
 
 ### Editores:
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=plastic&logo=visual-studio-code&logoColor=blue)
-![Eclipse](https://img.shields.io/badge/-Eclipse-000000?style=plastic&logo=eclipse)
-![Intellij](https://img.shields.io/badge/-Intellij-000000?style=plastic&logo=intelij)
+![Eclipse](https://img.shields.io/badge/-Eclipse-000000?style=plastic&logo=eclipse&logoColor=290c4a)
+![Intellij](https://img.shields.io/badge/-Intellij-000000?style=plastic&logo=jetbrains)
 
 ### Outros:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+![Maven](https://img.shields.io/badge/-Maven-181717?style=plastic&logo=maven)
 
 
 ---
@@ -60,6 +62,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AL33H&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AL33H&hide=TeX&layout=compact&theme=dracula)
 
 
 ---
