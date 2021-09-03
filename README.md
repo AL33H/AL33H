@@ -54,7 +54,8 @@
 ### Outros:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-![Maven](https://img.shields.io/badge/-Maven-181717?style=plastic&logo=maven)
+![Maven](https://img.shields.io/badge/-Maven-181717?style=plastic&logo=apachemaven)
+![Postman](https://img.shields.io/badge/-Postman-181717?style=plastic&logo=postman)
 
 
 ---
