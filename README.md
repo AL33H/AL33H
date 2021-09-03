@@ -15,19 +15,22 @@
 
 
 ## Projetos
--  <a href="https://github.com/AL33H/personAPI-DIO-bootcamp">Projeto person-DIO-bootcamp.</a>
+
+-  <a href="https://github.com/AL33H/jvWeather-DIO">Projeto jvWeather-DIO [2021].</a>
+- - **Back-End:** Consumindo uma API externa.   
+- - **Banco de Dados:** Angular 9, TypeScript, HTML5, CSS3, JavaScript.
+-  <a href="https://github.com/AL33H/personAPI-DIO-bootcamp">Projeto person-DIO-bootcamp [2021].</a>
 - - **Back-End:** Java 11, SpringBoot, Maven e API REST.   
 - - **Banco de Dados:** H2 e PostgreSQL.
-- <a href="https://github.com/AL33H/BarberSystemJava">Projeto BarberSystemJava. </a>
+- <a href="https://github.com/AL33H/Netflix-clone-DIO">Projeto Netflix-clone-DIO [2021].</a>
+- - **FrontEnd:** HTML5, CSS3 e Javascript.
+- <a href="https://github.com/AL33H/course-manager-DIO">course-manager-DIO [2021].</a>
+- - **FrontEnd:** Angular 8, Html5 , CSS3, Javascript, TypeScript. 
+- - **Back-End:**  NodeJs.
+- <a href="https://github.com/AL33H/BarberSystemJava">Projeto BarberSystemJava [2020].</a>
 - - **FrontEnd:** Java Swing.  
 - - **Back-End:** Java 8, JasperReport e JCalendar.   
 - - **Banco de Dados:** PostgreSQL.
-- <a href="https://github.com/AL33H/Netflix-clone-DIO">Projeto Netflix-clone-DIO.</a>
-- - **FrontEnd:** HTML5, CSS3 e Javascript.
-- <a href="https://github.com/AL33H/course-manager-DIO">course-manager-DIO.</a>
-- - **FrontEnd:** Angular 8, Html5 , CSS3, Javascript, TypeScript. 
-- - **Back-End:**  NodeJs.
-
 
 ## Onde me encontrar
 
