@@ -62,8 +62,12 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
 
 ---
 
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AL33H&show_icons=true&theme=dracula)
 
 
+---
 
+![Visitor Count](https://profile-counter.glitch.me/AL33H/count.svg)
 
