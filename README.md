@@ -27,7 +27,7 @@
 
 ---
 
-## Habilidadeds
+## Habilidades e Ferramentas
 
 ### Backend:
 ![HTML5](https://img.shields.io/badge/-Java-000000?style=plastic&logo=java&logoColor=white)
