@@ -28,19 +28,32 @@
 ---
 
 ## Habilidadeds
-### Backend ~
+
+### Backend:
 ![HTML5](https://img.shields.io/badge/-Java-000000?style=plastic&logo=java&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-ffffff?style=plastic&logo=springboot)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-000000?style=plastic&logo=springboot)
 
 
-### FrontEnd ~
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic-square&logo=javascript)
+### FrontEnd:
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=plastic&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=plastic&logo=css3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=plastic&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=plastic-square&logo=javascript)
 
-### Banco de Dados ~
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffffff?style=plastic&logo=postgresql)
+
+### Banco de Dados:
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?style=plastic&logo=postgresql)
+
+
+### Editores:
+![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=plastic&logo=visual-studio-code&logoColor=blue)
+![Eclipse](https://img.shields.io/badge/-Eclipse-000000?style=plastic&logo=eclipse)
+![Intellij](https://img.shields.io/badge/-Intellij-000000?style=plastic&logo=intelij)
+
+### Outros:
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+
 
 ---
 
