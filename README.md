@@ -1,5 +1,5 @@
 
-<img align="right" margin="auto" display:="block" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&lines=Ol%C3%A1%2C+me+chamo+Aleff+Remberto!;Quer+me+conhecer?)](https://git.io/typing-svg)
 
