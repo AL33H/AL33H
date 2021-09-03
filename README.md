@@ -70,6 +70,8 @@
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/AL33H/count.svg)
+<img height="20px" src="https://profile-counter.glitch.me/AL33H/count.svg" />
+
+
 
 
