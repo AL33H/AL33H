@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&lines=Ol%C3%A1%2C+me+chamo+Aleff+Remberto!;Venha+me+conhecer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&lines=Ol%C3%A1%2C+me+chamo+Aleff+Remberto!;Quer+me+conhecer?)](https://git.io/typing-svg)
 
 
 
