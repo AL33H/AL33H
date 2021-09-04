@@ -84,6 +84,11 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AL33H&bg_color=0d1117&text_color=FFF&border_color=444">
 </a>
 
+
+---
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 ---
 
 <img height="20px" src="https://profile-counter.glitch.me/AL33H/count.svg" />
