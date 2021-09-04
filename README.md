@@ -85,6 +85,9 @@
 
 ---
 
+## WAKATIME STATUS:
+
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-113-blue)
 
@@ -159,11 +162,5 @@ TypeScript               2 repos             ████░░░░░░░�
 
  Last Updated on 04/09/2021
 <!--END_SECTION:waka-->
-
----
-
-<img height="20px" src="https://profile-counter.glitch.me/AL33H/count.svg" />
-
-
 
 
