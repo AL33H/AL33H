@@ -89,63 +89,63 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-194-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-194-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-331081%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-331081%20linhas%20de%20c%C3%B3digo-blue)
 
-**🐱 My Github Data** 
+**🐱 Meus dados no Github** 
 
-> 🏆 124 Contributions in the Year 2021
+> 🏆 124 Contribuições no ano de 2021
  > 
-> 📦 37.2 kB Used in Github's Storage 
+> 📦 37.2 kB Usado no armazenamento do Github 
  > 
-> 💼 Opted to Hire
+> 💼 Aberto para contratação
  > 
-> 📜 9 Public Repositories 
+> 📜 9 Repositórios Públicos 
  > 
-> 🔑 5 Private Repositories  
+> 🔑 5 Repositórios Privados  
  > 
-**I'm an Early 🐤** 
+**Eu sou diurno 🐤** 
 
 ```text
-🌞 Morning    12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.84% 
-🌆 Daytime    106 commits    █████████████████░░░░░░░░   69.28% 
-🌃 Evening    32 commits     █████░░░░░░░░░░░░░░░░░░░░   20.92% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96%
+🌞 Manhã      12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.79% 
+🌆 Tarde      107 commits    █████████████████░░░░░░░░   69.48% 
+🌃 Noite      32 commits     █████░░░░░░░░░░░░░░░░░░░░   20.78% 
+🌙 Madrugada  3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.95%
 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **Sou mais produtivo em Sexta-Feira** 
 
 ```text
-Monday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31% 
-Tuesday      24 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.69% 
-Wednesday    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.8% 
-Thursday     14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.15% 
-Friday       68 commits     ███████████░░░░░░░░░░░░░░   44.44% 
-Saturday     28 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.3% 
-Sunday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31%
+Segunda-Feira2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3% 
+Terça-Feira  24 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.58% 
+Quarta-Feira 15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.74% 
+Quinta-Feira 14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Sexta-Feira  68 commits     ███████████░░░░░░░░░░░░░░   44.16% 
+sábado       29 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.83% 
+domingo      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **Esta semana eu gastei meu tempo em** 
 
 ```text
-⌚︎ Time Zone: America/Sao_Paulo
+⌚︎ Fuso horário: America/Sao_Paulo
 
-💬 Programming Languages: 
+💬 Linguagens de programação: 
 Java                     3 hrs 16 mins       ████████████████████████░   98.48% 
 XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.52%
 
-🔥 Editors: 
+🔥 Editores: 
 IntelliJ                 3 hrs 19 mins       █████████████████████████   100.0%
 
-💻 Operating System: 
+💻 Sistema operacional: 
 Windows                  3 hrs 19 mins       █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in Java** 
+**Eu geralmente programo em Java** 
 
 ```text
 Java                     7 repos             ████████████████░░░░░░░░░   63.64% 
@@ -155,7 +155,7 @@ TypeScript               2 repos             ████░░░░░░░�
 ```
 
 
-**Timeline**
+**Linha do tempo**
 
 ![Chart not found](https://raw.githubusercontent.com/AL33H/AL33H/main/charts/bar_graph.png) 
 
