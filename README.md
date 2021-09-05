@@ -89,7 +89,7 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-303-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-309-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-344460%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -97,7 +97,7 @@
 
 > 🏆 133 Contribuições no ano de 2021
  > 
-> 📦 37.3 kB Usado no armazenamento do Github 
+> 📦 37.6 kB Usado no armazenamento do Github 
  > 
 > 💼 Aberto para contratação
  > 
@@ -160,7 +160,7 @@ HTML                     2 repos             ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AL33H/AL33H/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2021
+ Last Updated on 05/09/2021
 <!--END_SECTION:waka-->
 
 
