@@ -19,15 +19,19 @@
 
 ## Projetos
 
+-  <a href="https://github.com/AL33H/BarberSystem-API">Projeto BarberSystem-API [2021].</a>  
+- - **Back-End:** Java 11, SpringBoot, Maven, Hibernate Validation, Padrões de projeto: Data transfer object (DTO) e REST.
+- - **Banco de Dados:** H2 e PostgreSQL.
+-   <a href="https://github.com/AL33H/JavaTest">Projeto SigaBem-API [2021].</a>  
+- - **Back-End:** Java 11, SpringBoot, Maven, Hibernate Validation, Padrões de projeto: Data transfer object (DTO) e REST.
+- - **Banco de Dados:** H2 e PostgreSQL.
+- - **Documentação:** Swagger.
 -  <a href="https://github.com/AL33H/projeto-sds4">Projeto sds4-dsVenda [2021].</a>  
 - - **Back-End:** Java 11, SpringBoot, Maven, Hibernate Validation, Padrões de projeto: Data transfer object (DTO) e REST, Hospedado junto ao banco de dados no **Heroku**.
 - - **Banco de Dados:** H2-Dev e PostgreSQL-PROD hospedado junto ao backend no **Heroku**.
 - - **Front-End:** REACTJS, TypeScript, HTML5, CSS3, JavaScript e Hospedado no **Netlify**.
 -  <a href="https://github.com/AL33H/MeuPortifolio">Projeto MeuPortifolio [2021].</a>  
 - - **Front-End:** Angular 9, TypeScript, HTML5, CSS3, JavaScript.
--  <a href="https://github.com/AL33H/BarberSystem-API">Projeto BarberSystem-API [2021].</a>  
-- - **Back-End:** Java 11, SpringBoot, Maven, Hiberrnate Validation, Padrões de projeto: Data transfer object (DTO) e REST.
-- - **Banco de Dados:** H2 e PostgreSQL.
 -  <a href="https://github.com/AL33H/jvWeather-DIO">Projeto jvWeather-DIO [2021].</a>
 - - **Back-End:** Consumindo uma API externa.   
 - - **Front-End:** Angular 9, TypeScript, HTML5, CSS3, JavaScript.
