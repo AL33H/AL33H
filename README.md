@@ -103,7 +103,7 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-1-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-360207%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -148,15 +148,14 @@ domingo      4 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Java                     42 hrs 17 mins      ████████████████████████░   97.48% 
-Properties               1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41% 
-SQL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
+Java                     35 hrs 38 mins      ████████████████████████░   98.39% 
+Properties               35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61%
 
 🔥 Editores: 
-IntelliJ                 43 hrs 22 mins      █████████████████████████   100.0%
+IntelliJ                 36 hrs 13 mins      █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-Windows                  43 hrs 22 mins      █████████████████████████   100.0%
+Windows                  36 hrs 13 mins      █████████████████████████   100.0%
 
 ```
 
@@ -175,7 +174,7 @@ HTML                     2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AL33H/AL33H/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2021
+ Last Updated on 10/11/2021
 <!--END_SECTION:waka-->
 
 
