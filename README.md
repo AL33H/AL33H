@@ -148,13 +148,18 @@ domingo      4 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Nenhuma atividade rastreada esta semana
+Java                     4 hrs 22 mins       █████████████░░░░░░░░░░░░   53.16% 
+TypeScript               1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.69% 
+Properties               1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.47% 
+HTML                     1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.35% 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
 
 🔥 Editores: 
-Nenhuma atividade rastreada esta semana
+IntelliJ                 5 hrs 45 mins       █████████████████░░░░░░░░   69.92% 
+VS Code                  2 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   30.08%
 
 💻 Sistema operacional: 
-Nenhuma atividade rastreada esta semana
+Windows                  8 hrs 13 mins       █████████████████████████   100.0%
 
 ```
 
@@ -173,7 +178,7 @@ HTML                     2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AL33H/AL33H/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/12/2021
+ Last Updated on 29/12/2021
 <!--END_SECTION:waka-->
 
 
