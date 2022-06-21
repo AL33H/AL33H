@@ -111,13 +111,13 @@
 
 **🐱 Meus dados no GitHub** 
 
-> 🏆 5 Contribuições no ano de 2022
+> 🏆 6 Contribuições no ano de 2022
  > 
-> 📦 38.9 kB Usado no armazenamento do GitHub 
+> 📦 39.0 kB Usado no armazenamento do GitHub 
  > 
 > 💼 Aberto para contratação
  > 
-> 📜 16 Repositórios Públicos 
+> 📜 17 Repositórios Públicos 
  > 
 > 🔑 6 Repositórios Privados  
  > 
@@ -163,10 +163,10 @@ Nenhuma atividade rastreada esta semana
 **Eu geralmente programo em Java** 
 
 ```text
-Java                     9 repos             ██████████████░░░░░░░░░░░   56.25% 
-TypeScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+Java                     10 repos            ██████████████░░░░░░░░░░░   58.82% 
+TypeScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53% 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
 
 ```
 
@@ -176,7 +176,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AL33H/AL33H/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/06/2022 02:33:33 UTC
+ Last Updated on 21/06/2022 02:38:58 UTC
 <!--END_SECTION:waka-->
 
 
