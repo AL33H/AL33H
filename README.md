@@ -18,7 +18,15 @@
 <br>
 
 ## Projetos
+-  <a href="https://github.com/AL33H/OceanAgendas">Projeto OceanAgendas-API [2022].</a>  
+- - **Back-End:** Java, Maven, Hibernate, Validation, DTO, JPA, Swagguer, Spring Security, Token Jwt.
+- - **Banco de Dados:** H2 e Oracle.
 
+-  <a href="https://github.com/AL33H/SevenDaysOfCodeAlura">Projeto 7DaysOfCodeAlura [2022].</a>  
+- - **Back-End:** Java e SprintBoot
+
+
+( Os Projetos a seguir, foram implementados antes de iniciar a carreida de desenvolvimento. )
 -  <a href="https://github.com/AL33H/BarberSystem-API">Projeto BarberSystem-API [2021].</a>  
 - - **Back-End:** Java 11, SpringBoot, Maven, Hibernate Validation, Padrões de projeto: Data transfer object (DTO) e REST.
 - - **Banco de Dados:** H2 e PostgreSQL.
