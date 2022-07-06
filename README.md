@@ -113,7 +113,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-11-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-351%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -184,7 +184,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AL33H/AL33H/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/07/2022 02:55:58 UTC
+ Last Updated on 06/07/2022 02:59:41 UTC
 <!--END_SECTION:waka-->
 
 
