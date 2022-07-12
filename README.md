@@ -111,7 +111,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-539%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-539%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-1-blue)
 
@@ -184,7 +184,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AL33H/AL33H/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/07/2022 02:43:45 UTC
+ Last Updated on 12/07/2022 03:02:31 UTC
 <!--END_SECTION:waka-->
 
 
