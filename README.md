@@ -111,7 +111,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-539%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-544%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-1-blue)
 
@@ -158,13 +158,16 @@ domingo      4 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Nenhuma atividade rastreada esta semana
+Java                     1 hr 1 min          ████████████████████░░░░░   79.92% 
+GitIgnore file           9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.8% 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.02% 
+Properties               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26%
 
 🔥 Editores: 
-Nenhuma atividade rastreada esta semana
+IntelliJ                 1 hr 16 mins        █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-Nenhuma atividade rastreada esta semana
+Windows                  1 hr 16 mins        █████████████████████████   100.0%
 
 ```
 
@@ -184,7 +187,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AL33H/AL33H/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/07/2022 03:02:31 UTC
+ Last Updated on 13/07/2022 02:55:34 UTC
 <!--END_SECTION:waka-->
 
 
