@@ -111,9 +111,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-351%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -158,18 +158,18 @@ domingo      4 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Java                     18 hrs 11 mins      ███████████████████████░░   92.27% 
-XML                      39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.32% 
+Java                     16 hrs 19 mins      ████████████████████░░░░░   82.65% 
+XML                      2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.82% 
 Other                    29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.49% 
-GitIgnore file           9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83% 
-Properties               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
+GitIgnore file           17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47% 
+Properties               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65%
 
 🔥 Editores: 
-IntelliJ                 19 hrs 12 mins      ████████████████████████░   97.4% 
-VS Code                  30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.6%
+IntelliJ                 19 hrs 15 mins      ████████████████████████░   97.49% 
+VS Code                  29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.51%
 
 💻 Sistema operacional: 
-Windows                  19 hrs 43 mins      █████████████████████████   100.0%
+Windows                  19 hrs 45 mins      █████████████████████████   100.0%
 
 ```
 
@@ -189,7 +189,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AL33H/AL33H/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/07/2022 02:56:57 UTC
+ Last Updated on 28/07/2022 02:44:35 UTC
 <!--END_SECTION:waka-->
 
 
