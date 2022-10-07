@@ -111,9 +111,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-790%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-795%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-351%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -158,17 +158,17 @@ domingo      0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Java                     13 hrs 42 mins      █████████████████░░░░░░░░   69.8% 
-XML                      4 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   24.26% 
-Properties               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.33% 
-JavaScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27% 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
+Java                     16 hrs 38 mins      ██████████████████░░░░░░░   73.72% 
+XML                      4 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   20.7% 
+Properties               56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.18% 
+JavaScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11% 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
 
 🔥 Editores: 
-IntelliJ                 19 hrs 38 mins      █████████████████████████   100.0%
+IntelliJ                 22 hrs 34 mins      █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-Windows                  19 hrs 38 mins      █████████████████████████   100.0%
+Windows                  22 hrs 34 mins      █████████████████████████   100.0%
 
 ```
 
@@ -188,7 +188,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AL33H/AL33H/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/10/2022 02:53:09 UTC
+ Last Updated on 07/10/2022 03:04:38 UTC
 <!--END_SECTION:waka-->
 
 
