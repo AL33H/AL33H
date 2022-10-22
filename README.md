@@ -111,7 +111,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-822%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-818%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
@@ -121,7 +121,7 @@
 
 > 🏆 8 Contribuições no ano de 2022
  > 
-> 📦 39.1 kB Usado no armazenamento do GitHub 
+> 📦 39.0 kB Usado no armazenamento do GitHub 
  > 
 > 💼 Aberto para contratação
  > 
@@ -189,7 +189,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AL33H/AL33H/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/10/2022 02:41:00 UTC
+ Last Updated on 22/10/2022 03:06:19 UTC
 <!--END_SECTION:waka-->
 
 
