@@ -12,7 +12,6 @@
 
 <br>
 <br>
-
 <br>
 <br>
 <br>
@@ -20,7 +19,7 @@
 ## Projetos
 
 
--  <a href="[https://github.com/AL33H/OceanAgendas](https://github.com/AL33H/go-test)](https://github.com/AL33H/go-test)">Projeto go-test [2022].</a>  
+-  <a href="https://github.com/AL33H/go-test">Projeto go-test [2022].</a>  
 - - **Back-End:** Go Native.
 - - **Banco de Dados:** PostgreSQL.
 - 
