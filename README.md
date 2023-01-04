@@ -18,12 +18,15 @@
 <br>
 
 ## Projetos
+
+
+-  <a href="[https://github.com/AL33H/OceanAgendas](https://github.com/AL33H/go-test)](https://github.com/AL33H/go-test)">Projeto go-test [2022].</a>  
+- - **Back-End:** Go Native.
+- - **Banco de Dados:** PostgreSQL.
+- 
 -  <a href="https://github.com/AL33H/OceanAgendas">Projeto OceanAgendas-API [2022].</a>  
 - - **Back-End:** Java, Maven, Hibernate, Validation, DTO, JPA, Swagguer, Spring Security, Token Jwt.
 - - **Banco de Dados:** H2 e Oracle.
-
--  <a href="https://github.com/AL33H/SevenDaysOfCodeAlura">Projeto 7DaysOfCodeAlura [2022].</a>  
-- - **Back-End:** Java e SprintBoot
 
 
 ( Os Projetos a seguir, foram implementados antes de iniciar a carreira de developer. )
