@@ -1,7 +1,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&lines=Ol%C3%A1%2C+me+chamo+Aleff+Remberto,;Vem+me+conhecer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&lines=Ol%C3%A1%2C+me+chamo+Aleff+Remberto,;FullStack+Developer)](https://git.io/typing-svg)
 
 
 
